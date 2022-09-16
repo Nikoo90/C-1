@@ -1,4 +1,5 @@
 ﻿int num;
+Console.Write("Enter number: ");
 num = Convert.ToInt32(Console.ReadLine());
 
 if (num % 2 == 0)
